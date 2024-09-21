@@ -10,7 +10,7 @@
 </h2>
 <div align='center'>
 
-<span>📄 <a href="https://docs.google.com/document/d/11ODD1bnhqnFSvNpecRsUiV-p33yije_q/edit?usp=drive_link&ouid=113518759786348993074&rtpof=true&sd=true" target="_blank">Have a look at my Resume</a></span> |
+<span>📄 <a href="https://docs.google.com/document/d/11ODD1bnhqnFSvNpecRsUiV-p33yije_q/edit?usp=sharing&ouid=113518759786348993074&rtpof=true&sd=true" target="_blank">Have a look at my Resume</a></span> |
 <span><a href="https://portfolio-8o5v.vercel.app/" target="_blank">Portfolio</a></span>
 
 </div>
